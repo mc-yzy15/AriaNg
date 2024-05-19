@@ -1,8 +1,8 @@
 # 注：此版本为fork的原版，作者已将几乎大部分文件汉化，如遇没有汉化，请提交issues，或者提交Pull requests（汉化好的文件）
 # AriaNg
 [![License](https://img.shields.io/github/license/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
-[! [Lastest Build](https://img.shields.io/circleci/project/github/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
-[! [Lastest Release](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
+[![Lastest Build](https://img.shields.io/circleci/project/github/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
+[![Lastest Release](https://img.shields.io/github/release/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/releases)
 # #介绍
 AriaNg是一个现代的web前端，使[aria2](https://github.com/aria2/aria2)更容易使用。AriaNg是用纯html和javascript编写的，因此它不需要任何编译器或运行时环境。你可以把AriaNg放在你的网络服务器上，然后在浏览器中打开它。AriaNg使用响应式布局，支持任何桌面或移动设备。
 
