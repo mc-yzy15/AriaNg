@@ -1,3 +1,4 @@
+# 注：此版本为fork的原版，作者已将几乎大部分文件汉化，如遇没有汉化，请提交issues，或者提交Pull requests（汉化好的文件）
 # AriaNg
 [![License](https://img.shields.io/github/license/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
 [! [Lastest Build](https://img.shields.io/circleci/project/github/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
